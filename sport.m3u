@@ -1,0 +1,106 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport1
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport2
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://live.teleradiocom.tj/8/3m.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport3
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://livestream.angani.africa/livestream/k24/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport4
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://edge02.odtv.az/o7/idman/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport5
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport6
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport7
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport8
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport9
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport10
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport11
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://210.210.155.35/x6bnqe/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport12
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://210.210.155.35/x6bnqe/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport13
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport14
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport15
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://103.131.214.129:9985/stream/channelid/262238580.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport16
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://103.131.214.129:9985/stream/channelid/1036861532.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport17
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport18
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport19
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport20
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport21
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://live.teleradiocom.tj/8/3m.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport22
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport23
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport24
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://103.131.214.129:9985/stream/channelid/868069455.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport25
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://103.131.214.129:9985/stream/channelid/262238580.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png "group-title="Sport",BTSport26
+#EXTVLCOPT:http-referrer=https://loacast.live/
+http://103.131.214.129:9985/stream/channelid/1036861532.ts
+
