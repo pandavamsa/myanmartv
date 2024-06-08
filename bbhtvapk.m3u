@@ -1,0 +1,42 @@
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/search/myanmar-logo "group-title="Myanmar",Myanmartv1
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://pandavamsa.github.io/channl7.m3u8/mrtv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/search/myanmar-logo "group-title="Myanmar",Myanmartv2
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://pandavamsa.github.io/channl7.m3u8/channl7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/search/myanmar-logo "group-title="Myanmar",Myanmartv3
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://pandavamsa.github.io/channl7.m3u8/mahar.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/search/myanmar-logo "group-title="Myanmar",Myanmartv4
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/search/myanmar-logo "group-title="Myanmar",Myanmartv5
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://pandavamsa.github.io/channl7.m3u8/pyoneplaymusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/search/myanmar-logo "group-title="Myanmar",Myanmartv6
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://pandavamsa.github.io/channl7.m3u8/maharbuddha.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/search/myanmar-logo "group-title="Myanmar",Myanmartv7
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://pandavamsa.github.io/channl7.m3u8/channek.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/search/myanmar-logo "group-title="Myanmar",Myanmartv8
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://pandavamsa.github.io/channl7.m3u8/mntv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/search/myanmar-logo "group-title="Myanmar",Myanmartv9
+#EXTVLCOPT:http-referrer=https://loacast.live/
+https://pandavamsa.github.io/channl7.m3u8/mitv.m3u8
+
+
+
